@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+published: true
 permalink: /contact/
 ---
 <div class="Contact">

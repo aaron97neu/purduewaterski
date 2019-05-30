@@ -21,13 +21,13 @@ body {
   margin-bottom: 35px;
 }
 .button-primary {
-  background-color: $orange !important;
-  border-color: $orange !important;
+  background-color: $gold !important;
+  border-color: $gold !important;
 }
 
 .site-footer{
   height: $footer-height; 
-  background: $orange;
+  background: $gold;
   color: white;
   padding-top: 10px;
   a {
@@ -81,7 +81,7 @@ body {
     padding-top: 40px;
   }
   a {
-    color: $orange;
+    color: $gold;
     text-decoration: none;
   }
 }

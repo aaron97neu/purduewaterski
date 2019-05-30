@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Texas Water Ski
+title: Purdue Water Ski Team
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  The University of Texas at Austin Collegiate Water Ski Team
+  Purdue Collegiate Water Ski and Wakeboard Club
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://texaswaterski.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://purduewaterski.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
