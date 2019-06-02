@@ -13,18 +13,18 @@ permalink: /contact/
   </div>
   <div class="container">
     <div class="page-section">
-      <p>The best way to reach us is by e-mail at <a href="mailto:utexaswaterski@gmail.com">utexaswaterski@gmail.com</a> or in person at our General Meetings, which are every Monday at 9pm in UTC 1.104.</p>
+      <p>The best way to reach us is by Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
     </div>
     <hr>
     <div class="page-section">
-      <h2>2018 Officers</h2>
+      <h2>2019 Officers</h2>
       <div class="row officer">
         <div class="three columns">
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/bryce.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>President - <a href="mailto:brycecot@utexas.edu">Bryce Cotner</a></h3>
-          <p>Bryce is currently a junior studying Electrical and Computer Engineering. He grew up in The Woodlands TX, but learned to ski at his family's lake house on lake LBJ. Besides skiing and studying, you can often find Bryce enjoying a round of golf or playing his horn with various groups on campus. Fun Fact; Bryce's favorite animal is the Quokka!</p>
+          <h3>President - <a href="mailto:xxx">Jimmy Hickey</a></h3>
+          <p>Jimmy's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
       <div class="row officer">
@@ -32,8 +32,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/hayden.png)"></div>
         </div>
         <div class="nine columns">
-          <h3>Vice President - <a href="mailto:hayden.black@utexas.edu">Hayden Black</a></h3>
-          <p>Hayden is studying Finance in the Business Honors Program at UT with a minor in Psychology and an interest in Marketing and consumer behavior. He was born in Michigan, and has since lived in Wisconsin, France, and then finally Dallas, TX. Skiing since the age of 4, Hayden also enjoys reading, camping, playing sports with friends, meeting new people, and skiing (snow and water).</p>
+          <h3>Vice President - <a href="mailto:xxx">Emily Conti</a></h3>
+          <p> Emily's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
       <div class="row officer">
@@ -41,8 +41,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/ryan.png)"></div>
         </div>
         <div class="nine columns">
-          <h3>Treasurer - <a href="mailto:rrose2116@gmail.com">Ryan Rose</a></h3>
-          <p>Ryan is a sophomore studying Civil Engineering. He grew up on a lake outside of Dallas, but did not competitively ski until college. When he is not studying, Ryan is an active member of Kappa Alpha Order Fraternity and enjoys spending time outside.</p>
+          <h3>Treasurer - <a href="mailto:aneusted@purdue.edu">Aaron Neustedter</a></h3>
+          <p>Aaron's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
       <div class="row officer">
@@ -50,8 +50,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/luke.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Captain - <a href="mailto:lukewright@utexas.edu">Luke Wright</a></h3>
-          <p>Luke studies Computer Science when he's not at the lake. He grew up in Dallas, learning to ski at Lake Texoma, and graduated from Austin High in Austin. He joined the team fall of his freshman year.</p>
+          <h3>Men's Captain - <a href="mailto:xxx"></a></h3>
+          <p>Jessica's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
       <div class="row officer">
@@ -59,8 +59,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/roni.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>PR - <a href="mailto:stuckey002@gmail.com">Roni Stuckey</a></h3>
-          <p>A second year Biomedical Engineering major from Houston, Texas, when not skiing, Veronica enjoys playing piano, running and falling asleep to Netflix. She is the second favorite to the family pupper, Delta, beaten only by her older sister, Victoria.</p>
+          <h3>Women's Captian - <a href="mailto:xxx">Allie Erwin</a></h3>
+          <p>Allie's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
       <div class="row officer">
@@ -68,7 +68,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url()"></div>
         </div>
         <div class="nine columns">
-          <h3>Social - <a href="">Colton Beyer</a></h3>
+          <h3>Secretary - <a href="">Mekyna Hall</a></h3>
+          <p>Mekyna's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
       <div class="row officer">
@@ -76,34 +77,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/leah.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Moneymaker - <a href="mailto:leahshep@gmail.com">Leah Shepherd</a></h3>
-          <p>Leah is a sophomore studying chemical engineering. She grew up in Ohio and only skied once before joining the team her freshman year. When she's not skiing or studying, she loves to swim and bake desserts with friends.</p>
-        </div>
-      </div>
-      <div class="row officer">
-        <div class="three columns">
-          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/anna.jpg)"></div>
-        </div>
-        <div class="nine columns">
-          <h3>Recruitment - <a href="mailto:annavivatson@yahoo.com">Anna Vivatson</a></h3>
-          <p>Grew up with a boating family but had never even known about competitive waterskiing, but is so glad she discovered UT's team. She enjoys hiking, hanging out at the lake, and eating cereal. She will be a sophomore this year pursuing a nutrition degree</p>
-        </div>
-      </div>
-      <div class="row officer">
-        <div class="three columns">
-          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/matt.jpg)"></div>
-        </div>
-        <div class="nine columns">
-          <h3>Lake Coordinator - <a href="mailto:mbgurwitz@gmail.com">Matt Gurwitz</a></h3>
-          <p>Matt is a junior studying textiles and apparel, who joined the team fall of sophomore year. He learned to ski at his grandparents lake house. In his free time he is a member of the Sigma Alpha Mu fraternity.</p>
-        </div>
-      </div>
-      <div class="row officer">
-        <div class="three columns">
-          <div class="officer-image" style="background-image: url()"></div>
-        </div>
-        <div class="nine columns">
-          <h3>Lake Coordinator - Duncan Morgan</h3>
+          <h3>Assistant Treasurer - <a href="mailto:xxx">Elizabeth Chattin</a></h3>
+          <p>Elizabeth's Bio Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.</p>
         </div>
       </div>
     </div>
