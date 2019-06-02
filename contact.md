@@ -20,7 +20,7 @@ permalink: /contact/
       <h2>2019 Officers</h2>
       <div class="row officer">
         <div class="three columns">
-          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/bryce.jpg)"></div>
+          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/jimmy.jpg)"></div>
         </div>
         <div class="nine columns">
           <h3>President - <a href="mailto:xxx">Jimmy Hickey</a></h3>
