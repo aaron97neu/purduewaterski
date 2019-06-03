@@ -3,4 +3,4 @@ Purdue Water Ski Team Website
 
 This site is still under construction
 
-Shamelessly stolen from Luke Wright's UT Website http://texaswaterski.org/
+Based off of Luke Wright's Beautiful UT Waterski site http://texaswaterski.org/
