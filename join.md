@@ -17,4 +17,4 @@ permalink: /join/
 
 5.**Hang out with us!** We are always excited to welcome new members to the waterski family!
 
-6.No prior experience is required to join the team, just a desire to learn. The team provides all necessary equipment and instruction, and we are open to new team members throughout the semester. If you have any questions, feel free to email us at [mailto:utexaswaterski@gmail.com](utexaswaterski@gmail.com), or attend our General Meetings every Monday at 9pm in UTC 1.104.
+6.No prior experience is required to join the team, just a desire to learn. The team provides all necessary equipment and instruction, and we are open to new team members throughout the semester. If you have any questions, feel free to email us at [utexaswaterski@gmail.com](mailto:utexaswaterski@gmail.com), or attend our General Meetings every Monday at 9pm in UTC 1.104.
