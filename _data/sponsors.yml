@@ -1,0 +1,15 @@
+- name: "TZ Sunglasses"
+  url: "https://tzlifestyle.com/"
+  image: tommytz.png
+  
+- name: "Denali Skis"
+  url: "https://www.denaliskis.com/"
+  image: "denaliskis.png"
+  
+- name: "Swerve Watersports"
+  url: "http://swervewatersports.com/index.html"
+  image: "swerve.png"
+  
+- name: "HO Sports"
+  url: "https://www.hosports.com/"
+  image: "ho.png"

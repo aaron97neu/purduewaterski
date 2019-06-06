@@ -25,57 +25,23 @@ layout: default
     <div class="page-section sponsors">
       <h2>Sponsors</h2>
       <ul class="logos">
-        <li>
-          <a href="https://tzlifestyle.com/" target="_blank">
-            <img class="sponsor-image" src="/assets/images/tommytz.png">
-            <!-- Tz Sunglasses-->
-          </a>
-        </li>
-        <li>
-          <a href="https://www.denaliskis.com/" target="_blank">
-            <img class="sponsor-image" src="/assets/images/denaliskis.png">
-            <!-- Denali Skis -->
-          </a>
-        </li>
-        <li>
-          <a href="http://swervewatersports.com/index.html" target"_blank">
-            <img class="sponsor-image" src="/assets/images/swerve.png">
-            <!-- Swerve Watersports -->
-          </a>
-        </li>
-        <li>
-          <a href="https://www.hosports.com/" target="_blank">
-            <img class="sponsor-image" src="/assets/images/ho.png">
-          </a>
-        </li>
-
+      {% for sponsor in site.data.sponsors %}
+          <li>
+              <a href="{{ sponsor.url }}" target="_blank">
+                <img class="sponsor-image" src="/assets/images/sponsors/{{ sponsor.image }}">
+              </a>
+            </li>
+      {% endfor %}
       </ul>
       <h2>Donors</h2>
       <ul>
-        <li>Karen Alyea<li>
-        <li>Tanner Frye<li>
-        <li>Brian King<li>
-        <li>Jon Neustedter<li>
-        <li>Van Petit<li>
-        <li>James Mc Govern Ruden<li>
-        <li>Jeff Surdej<li>
-        <li>Mark Schmitt<li>
-        <li>Jose Luis Tejada<li>
-        <li>Mark Daniel Wyrick<li>
+        {% for donor in site.data.donors %}
+        <li>{{ donor.name }}<li>
+        {% endfor %}
       </ul>
       <div class="about-cta">
         <a href="/contact" class="button button-primary">Contact Us to Sponsor</a>
       </div>
     </div>
   </div>
-  <!--
-  <div class="container">
-    <div class="page-section">
-			<div class="google-cal">
-				<iframe src="https://calendar.google.com/calendar/embed?src=utexaswaterski%40gmail.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-			</div>
-
-    </div>
-  </div>
-  -->
 </div>
