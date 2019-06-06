@@ -1,0 +1,25 @@
+---
+layout: advdefault
+header: "Contact Us"
+subheader: "How to get in touch with the team"
+---
+<div>
+  <p> {{ content }}</p>
+</div>
+<hr>
+<div class="page-section">
+  <h2>{{ page.currentyear }} Officers</h2>
+  
+  {% for officer in site.data.officers %}
+  <div class="row officer">
+    <div class="three columns">
+      <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/{{ officer.picture }})"></div>
+    </div>
+    <div class="nine columns">
+      <h3>{{ officer.title }} - <a href="mailto:{{ officer.email }}">{{ officer.name }}</a></h3>
+      <p>{{ officer.bio }}</p>
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
