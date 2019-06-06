@@ -5,6 +5,7 @@ title: Legacy
 header: "Legacy"
 subheader: "Born and Bred to Rip and Shred since 1980"
 
+published: true
 permalink: /legacy/
 ---
 In 1980 John Huntzinger, Bud Rovee, and two other Purdue waterskiers packed up a car and drove to the P.I.T.S. in Decatur, IL to join seven other teams for the 1980 Collegiate Waterski Regional Championships. Purdue's first waterki team finished near the bottom of the pack, but they had no idea of what was to come. For the next three years this small group of men traveled to Regionals which was the only tournament of the season and was held at the P.I.T.S. each year. Then, in 1984 the Purdue team consisting of John Huntzinger, Mark Cline, Todd Smith, Neil Langacher Jim Rutham, and the first female Purdue waterskier, Ellen Tittman, soared to a second place finish behind Michigan State. This qualified Purdue for its first National tournament in California, hosted by Sacramento State.

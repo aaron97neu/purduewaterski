@@ -1,6 +1,12 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Purdue Water Ski
+classoverride: home
+head-image: home-head.jpg
+header: "Purdue Waterski"
+subheader: "Purdue Collegiate Waterski and Wakeboard Team"
+
+published: true
 ---
+
+Lorem Ipsum Modi reprehenderit dolores sint suscipit repellendus rem ex est. Aut quia aut dolores et quisquam. Est illo sed perferendis nobis non dolor perspiciatis. Repudiandae quia molestiae veritatis et aspernatur. Facere voluptatem quos repellendus sint aspernatur velit eum.

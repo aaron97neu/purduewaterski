@@ -5,6 +5,7 @@ title: Join
 header: "Join the Team"
 subheader: "How to join the Purdue Waterski Team"
 
+published: true
 permalink: /join/
 ---
 1.**Sign up for our e-mail list!** This email list allows officers and boat divers to communicate to the team about meetings, practices, social events, and other important information.

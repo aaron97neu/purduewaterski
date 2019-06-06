@@ -1,8 +1,7 @@
 <header class="site-header" role="banner">
 
   <div class="container">
-
-
+    
     <nav class="site-nav">
       <div class="logo">
        <a class="site-title" href="{{ "/" | relative_url}}">
@@ -10,10 +9,11 @@
        </a>
       </div>
       <div class="pages">
-        <!--<a class="page-link" href="{{ "/" | relative_url}}">Home</a>-->
         {% for my_page in site.pages %}
         {% if my_page.title %}
+        {% unless my_page.name == 'index.md' %}
         <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {% endunless %}
         {% endif %}
         {% endfor %}
       </div>

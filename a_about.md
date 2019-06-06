@@ -1,6 +1,8 @@
 ---
 layout: default 
 title: About
+
+published: true
 permalink: /about/
 ---
 <div class="about">

@@ -7,6 +7,7 @@ currentyear: "2019"
 header: "Contact Us"
 subheader: "How to get in touch with the team"
 
+published: true
 permalink: /contact/
 ---
 
