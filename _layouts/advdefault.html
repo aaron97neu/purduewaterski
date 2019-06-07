@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="{% if page.classoverride %}{{ page.classoverride }}{% else %}{{ page.title }}{$ endif %}">
+<div class="{% if page.classoverride %}{{ page.classoverride }}{% else %}{{ page.title }}{% endif %}">
   <div class="page-head" style="background-image:url({{site.url}}/assets/images/{% if page.head-image %}{{ page.head-image }}{% else %}{{ page.title }}-head.jpg{% endif %})">
     <div class="head-content">
       <h1>{{ page.header }}</h1>

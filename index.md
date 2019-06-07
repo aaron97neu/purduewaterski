@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Purdue Water Ski
+title: "Purdue Water Ski"
 classoverride: home
 head-image: home-head.jpg
 header: "Purdue Waterski"
