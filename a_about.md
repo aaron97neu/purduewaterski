@@ -6,7 +6,7 @@ published: true
 permalink: /about/
 ---
 <div class="about">
-  <div class="page-head" style="background-image:url({{site.url}}/assets/images/about-head.jpg)">
+  <div class="page-head" style="background-image:url({{site.url}}/assets/images/About-head.jpg)">
     <div class="head-content">
       <h1>About Our Team</h1>
       <h3>Information about the Team &amp; Collegiate Waterskiing</h3>

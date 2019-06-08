@@ -2,7 +2,7 @@
 layout: home
 title: "Purdue Water Ski"
 classoverride: home
-head-image: home-head.jpg
+head-image: Home-head.jpg
 header: "Purdue Waterski"
 subheader: "Purdue Collegiate Waterski and Wakeboard Team"
 
